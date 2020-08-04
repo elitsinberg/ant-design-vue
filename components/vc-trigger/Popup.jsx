@@ -60,6 +60,7 @@ export default {
     });
   },
   beforeDestroy() {
+    console.log("$$$$$$$$$$$$$$")
     if (this.$el.parentNode) {
       this.$el.parentNode.removeChild(this.$el);
     } else if (this.$el.remove) {
