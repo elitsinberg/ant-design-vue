@@ -46,12 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueComponent/ant-design-vue.git"
+    "url": "git+https://github.com/elitsinberg/ant-design-vue.git"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vueComponent/ant-design-vue/issues"
-  },
   "homepage": "https://www.antdv.com/",
   "peerDependencies": {
     "vue": ">=2.6.0",
